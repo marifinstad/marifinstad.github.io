@@ -1,6 +1,5 @@
 {
   "name": "my-resume",
-  "homepage": "https://github.com/marifinstad/marifinstad.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
