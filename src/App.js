@@ -7,6 +7,8 @@ import Portfolio from './components/portfolio/Portfolio'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import Slideshow from './components/slideshow/Slideshow'
+import { Analytics } from '@vercel/analytics/react';
+
 
 const App = () => {
   return (
@@ -19,6 +21,7 @@ const App = () => {
         <Portfolio />
         <Contact /> 
         <Footer />
+        <Analytics />
     </>
   )
 }
