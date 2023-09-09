@@ -42,7 +42,7 @@ const About = () => {
           </div>
 
           <p>
-          My name is Mari Finstad. <br /> I'm 24 years old and starting my 4th year of my masters (MEng) in Engineering and ICT at NTNU Trondheim.
+          My name is Mari Finstad. <br /> I'm 24 years old and starting my 4th year of my masters (MEng) in Engineering and ICT at NTNU in Trondheim.
           As you're read this I'm actually doing my exchange year at University of Bologna in Italy! < br/>  <br/> 
           
           One of my best qualities is that I'm easily engaged - resulting in having a huge variety of hobbies and interests. Deciding to have my masters in Egineering and ICT is because I have always liked subjects with answers that have two lined underneath. 
